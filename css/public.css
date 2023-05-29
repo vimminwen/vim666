@@ -1,0 +1,23 @@
+/* 初始格式 */
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: "微软雅黑";
+    background: #f1f1f1;
+    min-width: 1200px;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    border: none;
+}
